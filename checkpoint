@@ -1,0 +1,2 @@
+model_checkpoint_path: "bicycle_encoder_130"
+all_model_checkpoint_paths: "bicycle_encoder_130"
